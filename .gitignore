@@ -1,0 +1,11 @@
+target/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
+build_log.txt
+build_log_v2.txt
+compilation_output.txt
+classpath.txt
+deptree.txt

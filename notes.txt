@@ -1,0 +1,38 @@
+Day 1
+6 concepts
+
+1. AI
+
+2. ML
+
+3. DL
+
+4. GenAI: nl text, images, videos, audio, code
+
+---
+
+Day 2
+5. AI Agents
+6. MCP
+
+
+LLM
+1. Frontier Models (LLMs) (Open Source, Close Source)
+2. SLMs - gemma
+
+Must watch: Google AlphaGo https://www.youtube.com/watch?v=WXuK6gekU1Y
+
+RAG Intro
+
+---
+
+Day 3 - Advanced RAG & how to connect to mcp servers
+
+
+MCP servers
+1. github
+2. sql
+3. postgres
+4. jetbrains mcp proxy servers
+5. playwright
+6. docker
