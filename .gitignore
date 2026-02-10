@@ -9,3 +9,13 @@ build_log_v2.txt
 compilation_output.txt
 classpath.txt
 deptree.txt
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
+day-4/*.zip
+day-4/*.dmg
+day-4/Ollama.app/
+
